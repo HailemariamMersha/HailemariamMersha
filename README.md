@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Hailemariam Mersha!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hailemariam-mersha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hailemariam-b-mersha-8bba35237/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/HailemariamMersha)
 
 I am currently a penultimate-year Computer Science and Mathematics student at **NYU Abu Dhabi** and a **Student Research Assistant** at the [eBrain Lab](https://ebrain4everyone.com/) and the [SANAD Lab](https://sanadlab.org/).
@@ -12,17 +12,17 @@ When I'm not coding or conducting research, you'll find me organizing cultural e
 ## 🔬 Research Interests
 
 Currently, I'm focused on:
-- 🔒 **LLM Security & Robustness** — Investigating jailbreak techniques, vulnerabilities, and defense mechanisms in large language models, detecting and Measuring Prompt Injection Attacks in Cryptocurrency Token Metadata Targeting AI Trading Systems
-- 🌍 **Climate Data Analysis** — Analyzing large-scale climate datasets (CMIP6 & ERA5) to study temperature trends over the Arabian Peninsula
-- 🤖 **Computer Vision** — Exploring object detection, tracking, and transformer-based architectures like DETR
-- 🧠 **Deep Learning** — Building neural networks from scratch and fine-tuning state-of-the-art models
+- **LLM Security & Robustness** — Investigating jailbreak techniques, vulnerabilities, and defense mechanisms in large language models, detecting and Measuring Prompt Injection Attacks in Cryptocurrency Token Metadata Targeting AI Trading Systems
+- **Climate Data Analysis** — Analyzing large-scale climate datasets (CMIP6 & ERA5) to study temperature trends over the Arabian Peninsula
+- **Computer Vision** — Exploring object detection, tracking, and transformer-based architectures like DETR
+- **Deep Learning** — Building neural networks from scratch and fine-tuning state-of-the-art models
 
-## 💼 My Favorites
+## Hobbies
 
-💻 I love exploring new technologies and building innovative solutions  
-📊 Passionate about AI security, computer vision, and climate science  
-🎓 Continuous learner — always diving deep into new research papers and technologies  
-🌟 Community builder — organizing cultural events and creating inclusive spaces  
+- I love exploring new technologies and building innovative solutions  
+- Passionate about AI security, computer vision, and climate science  
+- Continuous learner — always diving deep into new research papers and technologies  
+- Community builder — organizing cultural events and creating inclusive spaces  
 
 ## 🚀 Featured Projects
 
@@ -55,7 +55,7 @@ Currently, I'm focused on:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </p>
 
-**Languages:** Python, C/C++, HTML, CSS  
+**Languages:** Python, C/C++, Javascript, HTML, CSS 
 **Tools:** Git, Docker, VS Code, PyCharm, HPC environments  
 **Libraries:** PyTorch, pandas, NumPy, Matplotlib, xarray  
 
@@ -72,7 +72,7 @@ Currently, I'm focused on:
 ## 📫 Get in Touch
 
 - 📧 Email: [hbm9834@nyu.edu](mailto:hbm9834@nyu.edu)
-- 💼 LinkedIn: [linkedin.com/in/hailemariam-mersha](https://linkedin.com/in/hailemariam-mersha)
+- 💼 LinkedIn: [linkedin.com/in/hailemariam-mersha](https://www.linkedin.com/in/hailemariam-b-mersha-8bba35237/))
 - 🐙 GitHub: [github.com/HailemariamMersha](https://github.com/HailemariamMersha)
 - 🌐 Portfolio: [HailemariamMersha.github.io/portfolio](https://HailemariamMersha.github.io/portfolio)
 
