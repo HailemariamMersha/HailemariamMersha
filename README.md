@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Hailemariam Mersha!
+# Hey there 👋, I'm [Hailemariam Mersha]!(https://hailemariam.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hailemariam-b-mersha-8bba35237/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/HailemariamMersha)
